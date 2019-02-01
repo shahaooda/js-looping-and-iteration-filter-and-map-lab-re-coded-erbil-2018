@@ -1,5 +1,4 @@
 
-// Code your solution here:
 function driversWithRevenueOver(drivers, income){
   return drivers.filter(function (driver) {
     return driver.revenue > income});
